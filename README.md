@@ -1,8 +1,9 @@
 ![My Apps](https://github.com/StormTersteeg/StormTersteeg/assets/42808385/9e870820-1fe0-430d-b70b-23aec2960df4)
-<br><br>
-
+<br>
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/StormTersteeg?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+<br>
+![codewars](https://www.codewars.com/users/StormTersteeg/badges/large)
 <br>
 
 [![My Skills](https://skillicons.dev/icons?i=cs,net,java,kotlin,androidstudio)](https://skillicons.dev)
