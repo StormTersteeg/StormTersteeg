@@ -3,7 +3,7 @@
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/StormTersteeg?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 <br>
-![codewars](https://www.codewars.com/users/StormTersteeg/badges/large)
+[![codewars](https://www.codewars.com/users/StormTersteeg/badges/large)](https://www.codewars.com/users/StormTersteeg)
 <br>
 
 [![My Skills](https://skillicons.dev/icons?i=cs,net,java,kotlin,androidstudio)](https://skillicons.dev)
